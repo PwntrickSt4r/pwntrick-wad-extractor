@@ -1,2 +1,4 @@
-# pwntrick-wad-extractor
-GUI .wad file extractor for Windows
+# PwntrickSt4r's WAD Extractor
+Simple GUI .wad file extractor for Windows
+
+![PwntrickWADExtractor Interface Screenshot](screenshot.PNG)
